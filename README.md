@@ -10,5 +10,4 @@ npm i discord.js
 
 
 ## Informations
-Created by `GlowDocs`
-Discord: GlowDocs#8075
+Created by `GlowDocs`\nDiscord: GlowDocs#8075
