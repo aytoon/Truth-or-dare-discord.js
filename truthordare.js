@@ -1,3 +1,6 @@
+// You doesn't use command handler? Ok...
+// Delete this Part \/
+
 const discord = require('discord.js');
 
 module.exports = {
@@ -5,6 +8,8 @@ module.exports = {
   description: "Truth or dare game command",
   
   async run(client, message, args){
+
+// Here ends ^
     
     
     let retruth = [
