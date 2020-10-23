@@ -41,7 +41,7 @@ module.exports = {
     pagetruth.setColor("#EDC201")
     pagetruth.setAuthor("Chels-bot", client.user.avatarURL("https://cdn.discordapp.com/attachments/730136060323037214/730147944996536461/20200707_213231.png"))
     pagetruth.setTitle("You chouse: Truth")
-    pagetruth.setDescription(`${retruth[truth]}\n☞ *You have spouk the truth, please tell it is!*`)
+    pagetruth.setDescription(`${retruth[truth]}\n☞ *You have spoke the truth, please tell it is!*`)
     pagetruth.setFooter("Chels-bot")
     pagetruth.setTimestamp()
     
@@ -49,7 +49,7 @@ module.exports = {
     pagedare.setColor("#EDC201")
     pagedare.setAuthor("Chels-bot", client.user.avatarURL("https://cdn.discordapp.com/attachments/730136060323037214/730147944996536461/20200707_213231.png"))
     pagedare.setTitle("You chouse: Dare")
-    pagedare.setDescription(`${redare[dare]}\n☞ *You have spouk the truth, please tell it is!*`)
+    pagedare.setDescription(`${redare[dare]}\n☞ *You have spoke the truth, please tell it is!*`)
     pagedare.setFooter("Chels-bot")
     pagedare.setTimestamp()
     
@@ -60,7 +60,7 @@ module.exports = {
         main.setColor("#EDC201")
         main.setAuthor("Chels-bot", client.user.avatarURL("https://cdn.discordapp.com/attachments/730136060323037214/730147944996536461/20200707_213231.png"))
         main.setTitle("Truth or Dare game started!")
-        main.setDescription("What you want to choice?\n\n**Truth** = 😇\n**Dare** = 👿\n\n*Please react with an emoji to contine!*")
+        main.setDescription("What you want to choice?\n\n**Truth** = 😇\n**Dare** = 👿\n\n*Please react with an emoji to continue!*")
         main.setFooter("Chels-bot")
         main.setTimestamp()
         
